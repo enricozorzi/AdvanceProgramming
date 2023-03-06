@@ -19,7 +19,7 @@ and ELU.
 ### Requirements
 
 ```bash
-  conda install pytorch torchvision torchaudio cpuonly -c pytorch
+  pip3 install torch torchvision torchaudio
   pip install datetime
 ```
     
